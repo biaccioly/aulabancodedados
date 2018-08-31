@@ -1,8 +1,46 @@
-titulo,genero
-"Encontro com Rama",Suspense
-"Desus Americanos",Suspense
-"Alucinadamente Feliz",Biografia
-"O Alquimista",Romance
-"Filhos de Anansi",Romance
-"O Fim da Infancia",Ficção
-"Eu sou a lenda",Ficção
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">titulo</Data></Cell>
+			<Cell><Data ss:Type="String">genero</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Encontro com Rama</Data></Cell>
+			<Cell><Data ss:Type="String">Suspense</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Desus Americanos</Data></Cell>
+			<Cell><Data ss:Type="String">Suspense</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Alucinadamente Feliz</Data></Cell>
+			<Cell><Data ss:Type="String">Biografia</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">O Alquimista</Data></Cell>
+			<Cell><Data ss:Type="String">Romance</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Filhos de Anansi</Data></Cell>
+			<Cell><Data ss:Type="String">Romance</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">O Fim da Infancia</Data></Cell>
+			<Cell><Data ss:Type="String">Ficção</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Eu sou a lenda</Data></Cell>
+			<Cell><Data ss:Type="String">Ficção</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

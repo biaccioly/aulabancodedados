@@ -18,10 +18,10 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 		</Row>
 
 		<Row>
-			<Cell><Data ss:Type="Number">3</Data></Cell>
-			<Cell><Data ss:Type="String">Alucinadamente Feliz</Data></Cell>
-			<Cell><Data ss:Type="String">Jenny Lawson</Data></Cell>
-			<Cell><Data ss:Type="String">Biografia</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Encontro com Rama</Data></Cell>
+			<Cell><Data ss:Type="String">Arthur C. Clark</Data></Cell>
+			<Cell><Data ss:Type="String">Suspense</Data></Cell>
 		</Row>
 		<Row>
 			<Cell><Data ss:Type="Number">2</Data></Cell>
@@ -30,22 +30,10 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 			<Cell><Data ss:Type="String">Suspense</Data></Cell>
 		</Row>
 		<Row>
-			<Cell><Data ss:Type="Number">1</Data></Cell>
-			<Cell><Data ss:Type="String">Encontro com Rama</Data></Cell>
-			<Cell><Data ss:Type="String">Arthur C. Clark</Data></Cell>
-			<Cell><Data ss:Type="String">Suspense</Data></Cell>
-		</Row>
-		<Row>
-			<Cell><Data ss:Type="Number">7</Data></Cell>
-			<Cell><Data ss:Type="String">Eu sou a lenda</Data></Cell>
-			<Cell><Data ss:Type="String">Richard Matheson</Data></Cell>
-			<Cell><Data ss:Type="String">Ficção</Data></Cell>
-		</Row>
-		<Row>
-			<Cell><Data ss:Type="Number">5</Data></Cell>
-			<Cell><Data ss:Type="String">Filhos de Anansi</Data></Cell>
-			<Cell><Data ss:Type="String">Neil Gaiman</Data></Cell>
-			<Cell><Data ss:Type="String">Romance</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Alucinadamente Feliz</Data></Cell>
+			<Cell><Data ss:Type="String">Jenny Lawson</Data></Cell>
+			<Cell><Data ss:Type="String">Biografia</Data></Cell>
 		</Row>
 		<Row>
 			<Cell><Data ss:Type="Number">4</Data></Cell>
@@ -54,9 +42,21 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 			<Cell><Data ss:Type="String">Romance</Data></Cell>
 		</Row>
 		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Filhos de Anansi</Data></Cell>
+			<Cell><Data ss:Type="String">Neil Gaiman</Data></Cell>
+			<Cell><Data ss:Type="String">Romance</Data></Cell>
+		</Row>
+		<Row>
 			<Cell><Data ss:Type="Number">6</Data></Cell>
 			<Cell><Data ss:Type="String">O Fim da Infancia</Data></Cell>
 			<Cell><Data ss:Type="String">Arthur C. Clack</Data></Cell>
+			<Cell><Data ss:Type="String">Suspense</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Eu sou a lenda</Data></Cell>
+			<Cell><Data ss:Type="String">Richard Matheson</Data></Cell>
 			<Cell><Data ss:Type="String">Ficção</Data></Cell>
 		</Row>	</Table>
 </Worksheet>
