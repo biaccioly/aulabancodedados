@@ -156,3 +156,26 @@ drop table Aluno;
 -- Visualizar todos os dados da tabela
 -- Vai dar erro, pois a tabela Aluno já não existe mais
 select * from Aluno;
+
+create table curso (
+codigo int primary key auto_increment, nome varchar(10), coordenador varchar(20));
+
+alter table curso auto_increment = 100;
+
+insert into curso values (null, 'ADS', 'Gerson'), (null, 'BD', 'Marise'), (null, 'Redes', 'Alex');
+
+select * from curso;
+
+alter table aluno add codCurso int, add foreign key(codCurso) references curso(codigo);
+
+select * from aluno;
+
+update aluno set codcurso = 100 where ra in (52059, 52079, 52094);
+
+update aluno set codcurso = 101 where ra in (52078, 52100);
+
+update aluno set codcurso = 102 where ra in (52060, 52105);
+
+select * from aluno, curso;
+
+select * from aluno, curso where codCurso = codigo;
